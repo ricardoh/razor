@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/web';
+$config['base_url']	= 'http://razor.rwhtech.com.br/';
 
 /*
 |--------------------------------------------------------------------------
@@ -328,7 +328,7 @@ $config['compress_output'] = FALSE;
 |
 */
 $config['time_reference'] = 'local';
-$config['timezones'] = 'UTC';
+$config['timezones'] = 'UM3';
 
 /*
 |--------------------------------------------------------------------------
